@@ -14,7 +14,7 @@
 
 - 🎵 When doing all of these activities, I listen to music almost all the time: pop, jazz, EDM and a lot of hip-hop/rap
 
-- 🎯 On my github page, you will find mainly **school projects** but sometimes some personal projects. In any case, all these projects, school and personal, had for goal to initiate me to new programming languages or new concepts, which can explain some imperfections in these 
+- 🎯 On my github profile, you will find mainly **school projects** but sometimes some personal projects. In any case, all these projects, school and personal, had for goal to initiate me to new programming languages or new concepts, which can explain some imperfections in these 
 
 - 🛠️ Languages & Tools:
   - Languages: Python, R, Java, SQL
