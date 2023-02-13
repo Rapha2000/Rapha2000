@@ -23,7 +23,7 @@
   - IDE: VSCode, Jupyter, Eclipse
   - Versioning: github, git
  
-- 📬 Here's how you can reach me:
+- 📬 Here's how you can reach me: [email](raphael.seve00@outlook.fr)
 
 
 <!--
