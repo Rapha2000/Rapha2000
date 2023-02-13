@@ -10,6 +10,10 @@
 - 🎵 When doing all of these activities, I listen to music almost all the time: pop, jazz, EDM and a lot of hip-hop/rap
 - 🎯 On my github page, you will find mainly **school projects** but sometimes some personal projects. In any case, all these projects, school and personal, had for goal to initiate me to new programming languages or new concepts, which can explain some imperfections in these 
 
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.m.wikipedia.org%2Fwiki%2FFichier%3APython_logo_and_wordmark.svg&psig=AOvVaw1zmTeUFej9KrOC-4_x7_Nl&ust=1676383357029000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiB2-XUkv0CFQAAAAAdAAAAABAE)" width="100"/>
+</div>
+
 <!--
 **Rapha2000/Rapha2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
