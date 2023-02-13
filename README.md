@@ -1,5 +1,11 @@
 ### Hi there, I am Raphael 👋
 
+## Thanks for stopping by. Here's a little bit about myself...
+
+- 🤔 My pronouns are: He/His/Him
+-  :fr: I am a French student coming from the city of Saint-Etienne
+- 🌱 I’m currently learning ...
+
 <!--
 **Rapha2000/Rapha2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
