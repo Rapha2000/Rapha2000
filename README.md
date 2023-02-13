@@ -18,7 +18,7 @@
 
 - 🛠️ Languages & Tools:
   - Languages: Python, R, Java, SQL
-  - Frameworks: Numpy, Pandas, Scikit-learn, ggplot2, dplyr
+  - Frameworks: Numpy, Pandas, Scikit-learn, PyTorch, TensorFlow, ggplot2, dplyr
   - DBMS: PostgreSQL, MongoDB
   - IDE: VSCode, Jupyter, Eclipse
   - Versioning: github, git
