@@ -3,7 +3,7 @@
 ## Thanks for stopping by. Here's a little bit about myself...
 
 - 🤔 My pronouns are: He/His/Him
--  :fr:  I am a French student coming from the city of Saint-Etienne
+-  :fr:       I am a French student coming from the city of Saint-Etienne
 - 🌱 I’m currently learning ...
 
 <!--
