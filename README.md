@@ -10,7 +10,7 @@
 
 - 🌄 During my leisure time, I practice a lot of sports. In my daily life, I do a lot of tennis (with the school team) and running, but when I have more time, what I really love is doing **outdoor/moutain sports** such as trail, ski and hiking
 
-- 📖 I also like reading. I mainly read **exploration stories**, such as the ones of Mike Horn, but also fictions or personal develoment books
+- 📖 I also like reading. I mainly read **exploration stories**, such as the ones of Mike Horn, but also fictions or personal development books
 
 - 🎵 When doing all of these activities, I listen to music almost all the time: pop, jazz, EDM and a lot of hip-hop/rap
 
