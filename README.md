@@ -4,7 +4,7 @@
 
 - 🤔 My pronouns are: He/His/Him
 
-- 🌱 I’m a french student coming from the city of Saint-Etienne, France and I'm currently learning **AI & Data Science** at French Engineering School **IMT Mines Alès**
+- 🌱 I’m a French student coming from the city of Saint-Etienne, France and I'm currently learning **AI & Data Science** at French Engineering School **IMT Mines Alès**
 
 - 🎓 My expected graduation date was August 2024, but I recently chose to do a gap year in order to **gain technical skills and field experiences**, postponing my graduate date to August 2025. Another goal of this gap year is to help me find in which field of AI and data I really want to work in the future. That's why I intend to realize **two internships** during my gap year, with **at least one abroad** to discover & deal with interculturality and foreign language at work 
 
