@@ -17,7 +17,7 @@
 - 🎯 On my github profile, you will find mainly **school projects** but sometimes some personal projects. In any case, all these projects, school and personal, had for goal to initiate me to new programming languages or new concepts, which can explain some imperfections in these 
 
 - 🛠️ Languages & Tools:
-  - Languages: Python, R, Java, SQL
+  - Languages: Python, R, SQL, Java, C
   - Frameworks: Numpy, Pandas, Scikit-learn, PyTorch, TensorFlow, ggplot2, dplyr
   - DBMS: PostgreSQL, MongoDB
   - IDE: VSCode, Jupyter, Eclipse
