@@ -18,9 +18,9 @@
 
 - 🛠️ Languages & Tools:
   - Languages: Python, R, SQL, Java, C
-  - Frameworks: Numpy, Pandas, Scikit-learn, PyTorch, TensorFlow, ggplot2, dplyr
-  - DBMS: PostgreSQL, MongoDB
-  - IDE: VSCode, Jupyter, Eclipse
+  - Frameworks: Numpy, Pandas, Scikit-learn, Keras, PyTorch, ggplot2, dplyr
+  - DBMS:  SQLServer, PostgreSQL, MongoDB
+  - IDE: VSCode, Jupyter, Eclipse, CodeBlocks
   - Versioning: github, git
  
 - 📬 Here's how you can reach me: [email](mailto:raphael.seve00@outlook.fr)
