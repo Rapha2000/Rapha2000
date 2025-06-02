@@ -16,7 +16,7 @@
 
 - 🛠️ Languages & Tools:
   - Languages: Python, SQL, TypeScript
-  - Frameworks: HuggingFace, PyTorch, Keras
+  - Frameworks: HuggingFace, PyTorch, Keras, LangChain & LangGraph
   - DBMS: SQL (PostgreSQL, SQL Server) & NoSQL (MongoDB, Dynamo, Firestore)
   - IDE: VSCode, Jupyter
   - DevOps: CI/CD (Github/Gitlab), IaC (Terraform), Cloud (mainly AWS, basis on Azure and GCP Firebase), Containers (Docker)
